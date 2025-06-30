@@ -1,0 +1,4 @@
+com\projetotriade\usuarios\repository\UsuarioRepository.class
+com\projetotriade\usuarios\controller\UsuarioController.class
+com\projetotriade\usuarios\model\Usuario.class
+com\projetotriade\usuarios\UsuariosApplication.class
